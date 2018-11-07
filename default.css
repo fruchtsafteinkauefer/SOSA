@@ -1,0 +1,170 @@
+html, body {
+    height: 100%;
+
+
+}
+/*********************************************************************************/
+/* Menüleiste --> schwarze Leiste
+/*********************************************************************************/
+#menu {
+    background: #171717;
+    height: 110px;
+    text-align:right;
+
+}
+#menu ul {
+    height: 100px;
+    text-align:center;
+    margin: 0;
+
+    vertical-align: bottom;
+}
+#menu li {
+    display: inline-block;
+    border-right: 2px solid #FFFFFF;
+}
+#menu p {
+    display: inline-block;
+    padding: 0px 50px ;
+    text-transform: uppercase;
+    color: #FFF;
+    font-family :"Helvetica" ;
+    font-weight: bold;
+}
+#menu li:last-child {
+    border-right:none;
+}
+#menu img {
+    height:70px;
+    float:left;
+    margin-left:5%;
+
+
+
+
+}
+
+
+
+/*********************************************************************************/
+/* SuchLeiste --> braune Leiste                                                                 */
+/*********************************************************************************/
+
+#content
+{
+    width: 100%;
+    height:625px;
+    position: relative;
+    overflow: hidden;
+    padding: 6em 0em 5em 0em;
+    background-color: #D9D9D9;
+    background-image: url(hands50.jpg) ;
+    background-repeat: no-repeat;
+    background-position:center ;
+    text-align: center;
+    vertical-align: middle
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#copyright
+{
+    margin-bottom:0px;
+    overflow: hidden;
+    background:   #171717;
+    width:100%;
+
+
+
+}
+
+#copyright p
+{
+
+    letter-spacing: 0.20em;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 0.80em;
+    color: #FFF;
+
+}
+
+
+
+
+
+#wrapper {
+    background: #171717;
+}
+
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #171717;
+
+
+
+}
+
+.container {
+    width: 1200px;
+    margin: 0px auto;
+}
+
+.clearfix {
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
